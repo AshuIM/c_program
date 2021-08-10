@@ -2,7 +2,6 @@
 
 // Car Rental System
 
-/*
 
 The program allows users to create an account, rent vehicles and return vehicles
 and calculates price by recording time elapsed between rent and return.
